@@ -6,14 +6,7 @@ Deep Deterministic Policy Gradient (TD3) and Soft Actor-Critic (SAC). The object
 A quick summary can be obtained using the project poster (poster.pdf). For a more detailed explanataion, look at the project report (final_report.pdf).
 
 
-
-
-
-
-
-
-
-# RoboPianist: A Benchmark for High-Dimensional Robot Control
+### RoboPianist: A Benchmark for High-Dimensional Robot Control
 
 [![build][tests-badge]][tests]
 [![docs][docs-badge]][docs]
